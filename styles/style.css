@@ -1,5 +1,5 @@
 body {
-    background-image: url("bckgrnd.png");
+    background-image: url("../images/bckgrnd.png");
     background-size: cover;
     background-repeat: repeat;
     padding-top: 100px;
@@ -108,29 +108,28 @@ main {
     margin-right: auto;
     width: 85%;
     max-height: 200px;
-    /* vertical-align: middle; */
     padding-top: 146px;
-    background: url("Roladex1.jpg");
+    background: url("../images/Roladex1.jpg");
 }
 
 .b {
-    background: url("Portfolio_2.jpeg");
+    background: url("../images/Portfolio_2.jpeg");
 }
    
 .c {
-    background: url("Portfolio_3.jpg");
+    background: url("../images/Portfolio_3.jpg");
 }
 
 .d {
-    background: url("Portfolio_1.jpeg");
+    background: url("../images/Portfolio_1.jpeg");
 }
 
 .e {
-    background: url("Portfolio_2.jpeg");
+    background: url("../images/Portfolio_2.jpeg");
 }
 
 .f {
-    background: url("Portfolio_3.jpg");
+    background: url("../images/Portfolio_3.jpg");
 }
 
 .image {
@@ -174,7 +173,7 @@ footer {
         margin-left: 0px;
     }
 
-    top {
+    .top {
         margin: 10px;
     }
 
