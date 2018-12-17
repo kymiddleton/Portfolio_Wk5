@@ -1,22 +1,11 @@
-# Portfolio
+# Portfolio - Adding Links to Completed Project
 
-![Homepage:]()
+A web development activity to modify the previous Portfolio grid by adding a link that opens in an external page to a deployed project. 
 
-![Project View:]()
+Mobile:
 
-# Dependencies:
+![Portfolio_Mobile](images/Portfolio_mobile.jpeg)
 
+Desktop:
 
-# Getting Started
-
-
-# Deployment
-
-
-# Code Structure
-
-
-# Authors
-
-
-# Acknowledgements
+![portfolio](images/Portfolio.jpeg)
